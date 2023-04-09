@@ -1,9 +1,11 @@
 import re
+from re import findall
 import time
 import requests
 import cloudscraper
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse
+from lxml import etree
 
 print("Python is Amazing! Lets Continue Angel.")
 
