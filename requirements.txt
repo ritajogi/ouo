@@ -1,0 +1,10 @@
+requests
+cloudscraper
+bs4
+python-dotenv
+pyrogram
+tgcrypto
+lxml
+lk21
+git+https://github.com/zevtyardt/lk21.git
+cfscrape
